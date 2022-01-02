@@ -3,7 +3,7 @@ Election prediction using Machine Learning
 
 Predicting election results is a hot area in political science. In the last decade, social media has been widely used in political elections. Most approaches can predict the result of a national election. However, it is still challenging to predict the overall results of many local elections. 
 
-This project will predict the results using a popular machine learning algorithm.
+This project will predict the results using a popular machine learning algorithm using python.
 
 Most of the basic preprocessing, data visualization and machine learning steps have clearly explained here
 
